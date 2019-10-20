@@ -1,0 +1,5 @@
+{
+    "endpoint":"wss://testnet-rpc.tangerine-network.io/ws",
+    "contract_address":"TAN-SHELL_CONTRACT_ADDRESS",
+    "private_key":"YOUR_PRIVATE_KEY_HERE"
+}
